@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Icon=check.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     id="path1"
+     style="color:#000000;fill:#b8c1cc;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 16.666016,4 A 1,1 0 0 0 15.958984,4.2929688 L 7.5,12.751953 4.0410156,9.2929688 a 1,1 0 0 0 -1.4140625,0 1,1 0 0 0 0,1.4140622 l 4.1660157,4.166016 a 1.0001,1.0001 0 0 0 1.4140624,0 L 17.373047,5.7070312 a 1,1 0 0 0 0,-1.4140624 A 1,1 0 0 0 16.666016,4 Z" />
+</svg>

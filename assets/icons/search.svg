@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="Icon=search.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     id="path1"
+     style="color:#000000;fill:#b8c1cc;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 9.1660156,1.5 C 4.9436839,1.5 1.5,4.9436839 1.5,9.1660156 c 0,4.2223574 3.4436966,7.6679684 7.6660156,7.6679684 1.7519814,0 3.3682424,-0.596008 4.6621094,-1.591796 l 2.964844,2.964843 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 L 15.242188,13.828125 C 16.237976,12.534258 16.833984,10.917997 16.833984,9.1660156 16.833984,4.9436966 13.388373,1.5 9.1660156,1.5 Z m 0,2 c 3.1414884,0 5.6679684,2.5245495 5.6679684,5.6660156 0,1.5286734 -0.599949,2.9105624 -1.576172,3.9277344 a 1,1 0 0 0 -0.08984,0.07422 1,1 0 0 0 -0.0625,0.07813 c -1.01828,0.983039 -2.404772,1.58789 -3.9394534,1.58789 C 6.0245495,14.833984 3.5,12.307504 3.5,9.1660156 3.5,6.0245621 6.0245621,3.5 9.1660156,3.5 Z" />
+</svg>
