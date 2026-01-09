@@ -1,0 +1,75 @@
+name: wms_test
+description: "WMS test project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.17
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.4.0
+  pinput: ^5.0.1
+  get: ^4.7.2
+  google_fonts: ^6.2.1
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: assets/application/icon.png
+  adaptive_icon_foreground: assets/application/icon.png
+  adaptive_icon_background: assets/application/icon_bg.png
+
+flutter_native_splash:
+  color: "#1E1E1E"
+  android_12:
+    color: "#1E1E1E"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/instruction/1.jpeg
+    - assets/instruction/2.png
+    - assets/instruction/3.jpg
+    - assets/images/profile_picture.jpg
+    - assets/images/card_sample.png
+    - assets/icons/close.svg
+    - assets/icons/visibility.svg
+    - assets/icons/visibility_off.svg
+    - assets/icons/warehouse.svg
+    - assets/icons/key_vertical.svg
+    - assets/icons/view_agenda.svg
+    - assets/icons/docs.svg
+    - assets/icons/person.svg
+    - assets/icons/add.svg
+    - assets/icons/filter_list.svg
+    - assets/icons/wb_icon.png
+    - assets/icons/arrow_back_ios_new.svg
+    - assets/icons/contract.svg
+    - assets/icons/more_vert.svg
+    - assets/icons/keyboard_arrow_down.svg
+    - assets/icons/keyboard_double_arrow_down.svg
+    - assets/icons/keyboard_double_arrow_up.svg
+    - assets/icons/info_i.svg
+    - assets/icons/qr_code_scanner.svg
+    - assets/icons/search.svg
+    - assets/icons/checkboxDefault.svg
+    - assets/icons/checkboxActivated.svg
+    - assets/icons/list_arrow.svg
+    - assets/icons/list_profile.svg
+    - assets/icons/list_events.svg
+    - assets/icons/list_notifications.svg
+    - assets/icons/list_settings.svg
+    - assets/icons/list_attach.svg
+    - assets/icons/list_exit.svg
+    - assets/icons/directory_sync.svg
